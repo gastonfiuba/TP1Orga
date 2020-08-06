@@ -1,2 +1,2 @@
-# TP1Orga
-Organización de Datos TP1 
+# GrupoConBarbijo
+Grupo de TP de Organizacion de Datos
